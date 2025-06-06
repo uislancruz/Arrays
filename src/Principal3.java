@@ -8,5 +8,6 @@ public class Principal3 {
         Arrays.sort(notas);
 
         System.out.println(Arrays.toString(notas));
+
     }
 }
